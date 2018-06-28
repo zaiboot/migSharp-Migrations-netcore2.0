@@ -15,4 +15,4 @@ TODO:
 - [ ] Check the use of https://github.com/dradovic/MigSharp/tree/master/Migrate instead of the migration runner.
 - [ ] Unify .vscode folders
 - [ ] Setup linting for .net core
-- [ ] Create a list of commands for generating each project from scracth
+- [X] Create a list of commands for generating each project from scracth

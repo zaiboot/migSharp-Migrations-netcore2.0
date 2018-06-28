@@ -1,0 +1,4 @@
+dotnet new console
+dotnet add MigSharp
+dotnet add System.Data.SqlClient # for connection to sql server
+dotnet add Microsoft.Extensions.Configuration.Json # for using build-in config support

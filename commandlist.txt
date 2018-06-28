@@ -1,0 +1,4 @@
+dotnet new sln
+dotnet sln MigSharp-Test.sln add LibContainingMigrations/LibContainingMigrations.csproj
+dotnet sln MigSharp-Test.sln add MigrationRunner/MigrationRunner.csproj
+dotnet run -p MigrationRunner/MigrationRunner.csproj
